@@ -27,11 +27,9 @@ class StudentRevolution:
         return "Join us and build something real - or jerk off."
 ```
 
-NOTE: Racism is promoted here
-
-
-
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
+<a href="https://github.com/TheJoyboyNika/TheJoyboyNika/blob/main/note-racism-is-promoted.svg">
+  <img src="https://raw.githubusercontent.com/TheJoyboyNika/TheJoyboyNika/main/note-racism-is-promoted.svg" width="230" height="30" alt="Racism is promoted badge">
+</a>
 
 ### Creators
 
