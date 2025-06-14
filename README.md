@@ -2,9 +2,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">  
 
-<div align="center">
+<div align="left">
     &nbsp;
     <strong>Welcome to the unofficial open source hub for developers!</strong>
     <br /> 
@@ -12,7 +11,6 @@
     <strong>This is a **Coding Community** for students who are tired of this shitty college.</strong>
 </div>
 
-<br />
 <br /> 
 
 ```python
