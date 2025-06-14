@@ -36,8 +36,7 @@ class StudentRevolution:
 
 ## Our Mission
 
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="300">
-&nbsp; 
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="250">
 &nbsp; 
 &nbsp; 
 
