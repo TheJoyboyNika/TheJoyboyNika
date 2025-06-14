@@ -29,7 +29,7 @@ class StudentRevolution:
 
 NOTE: Racism is promoted here
 
-![Contributors](https://contrib.rocks/image?repo=TheJoyboyNika/Scheme-Matcher) 
+![Contributors](https://contrib.rocks/image?repo=TheJoyboyNika/Scheme-Matcher) ![Contributors](https://contrib.rocks/image?repo=TheJoyboyNika/TheJoyboyNika) 
 
 ![](https://komarev.com/ghpvc/?username=TheJoyboyNika)
 
