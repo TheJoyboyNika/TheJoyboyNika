@@ -6,7 +6,7 @@
 <div align="left">
     <strong>Welcome to the unofficial open source hub for developers!</strong>
     <br /> 
-    <strong>This is a **Coding Community** for students who are tired of this shitty college.</strong>
+    <strong>This is a Coding Community for students who are tired of this shitty college.</strong>
 </div>
 
 <br /> 
