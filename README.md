@@ -32,7 +32,7 @@ class StudentRevolution:
 
 ## What You Can Do Here
 
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="250">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="250">
 
 
 ### &nbsp; &nbsp; &nbsp; We’re building a strong coding culture by:
