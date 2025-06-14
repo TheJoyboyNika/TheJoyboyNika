@@ -4,10 +4,8 @@
 
 
 <div align="left">
-    &nbsp;
     <strong>Welcome to the unofficial open source hub for developers!</strong>
     <br /> 
-    &nbsp;
     <strong>This is a **Coding Community** for students who are tired of this shitty college.</strong>
 </div>
 
