@@ -30,19 +30,18 @@ class StudentRevolution:
   <img src="https://raw.githubusercontent.com/TheJoyboyNika/TheJoyboyNika/main/note-racism-is-promoted.svg" width="230" height="30" alt="Racism is promoted badge">
 </a>
 
-## Our Mission
+## What You Can Do Here
 
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="250">
-&nbsp; 
-&nbsp; 
+
 
 ### &nbsp; &nbsp; &nbsp; We’re building a strong coding culture by:
 
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> &nbsp; <strong>Encouraging open collaboration on real projects</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/> <br />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> &nbsp; <strong>Sharing hackathon, internship, and learning opportunities</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/> <br />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> &nbsp; <strong>Helping juniors improve through guided contributions</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/> <br />
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/> &nbsp; <strong>Maintaining open, evolving codebases that *anyone* can work on</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+<div align="left">
+  &nbsp; &nbsp; &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> &nbsp; <strong>Join Projects – Explore our pinned repos and contribute</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/> <br />
+    &nbsp; &nbsp; &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> &nbsp; <strong>Fix Issues – Start with `good first issue` tags</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/> <br />
+    &nbsp; &nbsp; &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> &nbsp; <strong>Learn in Public – Ask, discuss, and grow with others</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/> <br />
+    &nbsp; &nbsp; &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/> &nbsp; <strong>Showcase Your Work – Build your GitHub profile through real impact</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 </div>
  <br />
 <br />
