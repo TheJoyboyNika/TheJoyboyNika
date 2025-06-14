@@ -29,7 +29,33 @@ class StudentRevolution:
 
 NOTE: Racism is promoted here
 
-![Contributors](https://contrib.rocks/image?repo=TheJoyboyNika/Scheme-Matcher) ![Contributors](https://contrib.rocks/image?repo=TheJoyboyNika/TheJoyboyNika) 
+
+
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
+
+### Creators
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/psykickguy">
+        <img src="https://github.com/psykickguy.png" width="60px;" alt="psykickguy"/>
+      </a>
+      <br /><sub><b>psykickguy</b></sub>
+      <br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Patrick-ayo">
+        <img src="https://github.com/Patrick-ayo.png" width="60px;" alt="Patrick-ayo"/>
+      </a>
+      <br /><sub><b>Patrick-ayo</b></sub>
+      <br />
+    </td>
+    <!-- Add more contributors here -->
+  </tr>
+</table>
+
+
 
 ![](https://komarev.com/ghpvc/?username=TheJoyboyNika)
 
