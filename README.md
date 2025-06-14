@@ -1,16 +1,19 @@
-<!--
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-</div>
--->
-
-## G_BKL – Open Source Community Hub
+# G_BKL – Open Source Community Hub 
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 
-Welcome to the unofficial open source hub for developers! 
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="100">  
 
-This is a **Coding Community**, created by students who are tired of this shitty college.
+<div align="center">
+    &nbsp;
+    <strong>Welcome to the unofficial open source hub for developers!</strong>
+    <br /> 
+    &nbsp;
+    <strong>This is a **Coding Community** for students who are tired of this shitty college.</strong>
+</div>
+
+<br />
+<br /> 
 
 ```python
 class StudentRevolution:
@@ -30,6 +33,24 @@ class StudentRevolution:
 <a href="https://github.com/TheJoyboyNika/TheJoyboyNika/blob/main/note-racism-is-promoted.svg">
   <img src="https://raw.githubusercontent.com/TheJoyboyNika/TheJoyboyNika/main/note-racism-is-promoted.svg" width="230" height="30" alt="Racism is promoted badge">
 </a>
+
+## Our Mission
+
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="300">
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+### &nbsp; &nbsp; &nbsp; We’re building a strong coding culture by:
+
+<div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> &nbsp; <strong>Encouraging open collaboration on real projects</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/> <br />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> &nbsp; <strong>Sharing hackathon, internship, and learning opportunities</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="30" height="30"/> <br />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> &nbsp; <strong>Helping juniors improve through guided contributions</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="30" height="30"/> <br />
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/> &nbsp; <strong>Maintaining open, evolving codebases that *anyone* can work on</strong> &nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+</div>
+ <br />
+<br />
 
 ### Creators
 
